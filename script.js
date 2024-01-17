@@ -1,6 +1,7 @@
 const textEl = document.getElementById('text')
 const speedEl = document.getElementById('speed')
-const text = "We Love Programming!"
+const text = "This is my first heading!"
+const text2 = "Subheeading loading...!"
 
 let idx = 1
 

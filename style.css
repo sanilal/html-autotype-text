@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: darksalmon;
+    background-color: purple;
     font-family: serif;
     display: flex;
     flex-direction: column;
@@ -14,12 +14,13 @@ body {
     overflow: hidden;
     margin: 0;
     font-family: 'Roboto', sans-serif;
+    color: white;
 }
 
 div {
     position: absolute;
     bottom: 20px;
-    background-color: rgba(0, 0, 0, 0.1);
+    background-color: rgba(255, 255, 255, 0.1);
     padding: 10px 20px;
     font-size: 18px;
 }
@@ -28,7 +29,7 @@ input {
     width: 50px;
     padding: 5px;
     font-size: 18px;
-    background-color: darksalmon;
+    background-color: purple;
     border: none;
     text-align: center;
 }
